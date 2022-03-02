@@ -1,9 +1,9 @@
-# High availability web app using CloudFormation
+# Description:
 This project deploys web servers for a highly available web app using CloudFormation. It creates and deploys the infrastructure and application for an Instagram-like app from the ground up. Deployment begins with the networking components, followed by servers, security roles and software. The application code is deployed from the S3 bucket using appropriate role.
 
-## Specs needed:-
+# Specs needed:-
 
-#  Server specs
+# Server specs
 
 
 You'll need to create a Launch Configuration for your application servers in order to deploy four servers, two located in each of your private subnets.
