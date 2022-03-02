@@ -3,6 +3,9 @@ This project deploys web servers for a highly available web app using CloudForma
 
 # Specs needed:-
 
+#Infrastructure Diagram:
+![alt text](https://github.com/ahmedramzygi/High-availability-web-app-using-CloudFormation/blob/master/infraDiagram.PNG)
+
 # Server specs
 
 
